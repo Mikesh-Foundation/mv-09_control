@@ -10,3 +10,5 @@ BUTTON_CALIBRATION_LABEL    = "Calibration"
 BUTTON_MANUAL_LABEL         = "Manual Control"
 BUTTON_WIKI_LABEL           = "Wiki"
 BUTTON_EXIT_LABEL           = "Exit"
+
+LOG_FONT_SIZE               = 10
