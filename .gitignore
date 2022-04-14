@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*.py.bak
 
 # Spyder project settings
 .spyderproject
@@ -128,5 +129,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#PNG files generated from SVG
+# PNG files generated from SVG
 *.png
